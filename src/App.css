@@ -1,0 +1,32 @@
+.app-container{
+    display: flex;
+}
+
+.content{
+    width: 100%;
+}
+#sideBar{
+    min-height: 90vh;
+    max-height: 100vh;
+}
+.post-card{
+    width: 27rem;
+    margin: 15px 30px;
+}
+.post-title{
+    color:blue;
+    font-weight: 700;
+}
+.post-body{
+    color:goldenrod;
+    font-weight: 400;
+}
+.post-tags{
+    margin-left: 5px;
+    padding: 6px;
+    cursor: pointer;
+}
+.add{
+    margin: 15px 30px;
+    width: 50%;
+}
